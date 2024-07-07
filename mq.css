@@ -1,0 +1,61 @@
+
+
+@media screen and (max-width: 576px) {
+
+    .slideshow-text{
+        margin-top: 20px;
+    }
+
+    .banner {
+        margin-top: 20px;
+    }
+
+
+
+    .main-row {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+    .res-nav {
+        margin-top: 40px;
+    }
+
+    .res-nav p {
+        display: none;
+    }
+
+
+
+    /* notice section */
+
+    .notice ul li {
+        font-size: 14px;
+    }
+
+    .box h2 {
+        font-size: 17px;
+    }
+
+
+    /* ===========- right-side -============ */
+    .bio {
+        width: 320px;
+    }
+
+    .gov-col {
+        width: 320px;
+    }
+
+    .imp-urgent-row {
+        width: 320px;
+    }
+
+
+}
+
+
+
+
